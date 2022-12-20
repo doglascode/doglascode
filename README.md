@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Douglas!
 I'm a brazilian front-end developer.
 - 💻 Currently I'm learning about [ReactJS](https://reactjs.org);
-- 📬 Contact Me: walisondouglas30@gmail.com
+- 📬 Contact Me: doglascode@gmail.com
 
 ## 🚀 My Skills
 <div>
